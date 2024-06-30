@@ -1,3 +1,5 @@
+Access the Application here : 65.1.100.189 [IN WIP, need to map this public IP to a domain, Application is hosted on EC2 instance and running on docker]
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
